@@ -310,7 +310,7 @@ def check():
     return 'Incorrecto'
 check()
 
-#@title Ejecuta este bloque y pega la salida en Nodd3r para corregir
+#@Ejecuta este bloque 
 
 import hashlib
 cur.execute('SELECT * FROM movies;')
