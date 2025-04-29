@@ -28,8 +28,8 @@ pip install pandas numpy seaborn
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone [https://github.com/IRoma88/SQL_Peliculas.git]
+cd SQL_Peliculas.git
 ````
 
 2. Instala las dependencias necesarias:
